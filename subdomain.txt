@@ -6,6 +6,10 @@ webmail
 smtp
 pop
 ns1
+infra
+secreta
+secreto
+secret
 webdisk
 ns2
 cpanel
@@ -35,6 +39,7 @@ mobile
 mx
 static
 docs
+infrasecreta
 beta
 shop
 sql
